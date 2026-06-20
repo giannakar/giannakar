@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ioanna Karefyllaki
 
-<!--
-**giannakar/giannakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Epidemiology, Health Data & Biostatistics at the University of Montpellier and hold a BSc in Public Health from the University of West Attica.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of public health, data analysis, and digital epidemiology. During my undergraduate studies, I worked on infodemiology projects using social media data to study health-related opinions and behaviours, and contributed to the Greek implementation of the WHO Global Youth Tobacco Survey (GYTS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research interests
+
+- Data Analysis
+- Biostatistics
+- Epidemiology
+- Infodemiology
+- Digital Public Health
+- Health Misinformation Research
+
+## Tools
+
+- R
+- Python
+- SAS
+- SQL
+
+## Current focus
+
+Building stronger skills in health data science, statistical analysis, and applied machine learning for public health research.
