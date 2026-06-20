@@ -4,7 +4,7 @@ I'm a Master's student in Epidemiology, Health Data & Biostatistics at the Unive
 
 My interests lie at the intersection of public health, data analysis, and digital epidemiology. During my undergraduate studies, I worked on infodemiology projects using social media data to study health-related opinions and behaviours, and contributed to the Greek implementation of the WHO Global Youth Tobacco Survey (GYTS).
 
-## Research interests
+## Interests
 
 - Data Analysis
 - Biostatistics
